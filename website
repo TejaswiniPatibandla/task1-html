@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>website</title>
+        <link rel="stylesheet" href="c:\te\Tejaswini\style.css">
+<script src="C:\te\Tejaswini\script.js"></script>
+    </head>
+    <body>
+<div class="container">
+    <header class="header">
+        <a class="link-titles" href="/">small website</a>
+    </header>
+    <nav class="menu">
+<a href="index.html">Home</a> &nbsp; &nbsp; &nbsp;
+<a href="about.html">about us</a> &nbsp; &nbsp; &nbsp;
+<a href="contact.html">contact</a>
+    </nav>
+    <aside>
+        <h1>side bar</h1>
+    </aside>
+    <article class="main">
+        <p>today is a very hot day as this was the middle inn the summer season . in some areas there is a lot of water scarcity.people face many challenges for their livelyhood. </p>
+        <p>today is a very hot day as this was the middle inn the summer season . in some areas there is a lot of water scarcity.people face many challenges for their livelyhood. </p>
+        <p>today is a very hot day as this was the middle inn the summer season . in some areas there is a lot of water scarcity.people face many challenges for their livelyhood. </p>
+    </article>
+    <footer>
+        &copy; 2022 website &nbsp; <span class="separator">|</span> design by tejaswini <a href="/">TEjASWINI</a>
+    </footer>
+</div>
+    </body>
+</html>
